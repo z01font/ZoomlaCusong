@@ -15,7 +15,16 @@
 
 <!-- /TOC -->
 
-
+> This is not the best solution (it has certain flaws, it is our beginner's work, please send us a lot confidence and support, so that we can grow), I suggest you click here to browse our latest open source font: https://github.com/z01font /ZoomlaMengyas
+>
+> “杨过,字改之,去有则改之,无则加勉之”。
+>
+> 或曰：知耻而后勇，
+>
+> 或曰：知过以求上进。
+>
+>
+> 这不是最优的方案（它拥有一定的缺陷，是我们初学之作，请多包函，使我们能够成长），建议你点此浏览我们的最新开源字库：https://github.com/z01font/ZoomlaMengyas
 
 # ZoomlaCusong
 
