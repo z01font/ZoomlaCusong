@@ -1,17 +1,15 @@
 <!-- TOC -->
 
 - [ZoomlaCusong](#zoomlacusong)
-  - [Aoubt ZoomlaCusong Font](#aoubt-zoomlacusong-font)
-  - [How to user](#how-to-user)
-  - [About z01 Teams](#about-z01-teams)
-  - [Get support](#get-support)
-  - [License](#license)
-- [逐浪粗宋](#%e9%80%90%e6%b5%aa%e7%b2%97%e5%ae%8b)
-  - [关于逐浪粗宋](#%e5%85%b3%e4%ba%8e%e9%80%90%e6%b5%aa%e7%b2%97%e5%ae%8b)
-  - [使用文件](#%e4%bd%bf%e7%94%a8%e6%96%87%e4%bb%b6)
-  - [关于逐浪字库](#%e5%85%b3%e4%ba%8e%e9%80%90%e6%b5%aa%e5%ad%97%e5%ba%93)
-  - [获取支持](#%e8%8e%b7%e5%8f%96%e6%94%af%e6%8c%81)
-  - [许可证](#%e8%ae%b8%e5%8f%af%e8%af%81)
+    - [Aoubt ZoomlaCusong Font](#aoubt-zoomlacusong-font)
+    - [How to user](#how-to-user)
+    - [About z01 Teams](#about-z01-teams)
+    - [Get support](#get-support)
+- [逐浪粗宋](#逐浪粗宋)
+    - [关于逐浪粗宋](#关于逐浪粗宋)
+    - [使用文件](#使用文件)
+    - [关于逐浪字库](#关于逐浪字库)
+    - [获取支持](#获取支持)
 
 <!-- /TOC -->
 
@@ -56,10 +54,7 @@ QQ server：
 [![QQ server 1](https://img.shields.io/badge/QqServer1-524979923-red.svg?style=for-the-badge&logo=appveyor)](http://wpa.qq.com/msgrd?v=3&uin=745151353&site=qq&menu=yes)  [![QqServer2](https://img.shields.io/badge/QqServer2-1799661890-red.svg?style=for-the-badge&logo=appveyor)](http://wpa.qq.com/msgrd?v=3&uin=1799661890&site=qq&menu=yes) 
 
 
-## License
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
+
 
 ----
 
@@ -90,7 +85,4 @@ QQ交流群号：
 官方QQ客服：
 [![官方QQ客服1](https://img.shields.io/badge/官方QQ客服1-524979923-red.svg?style=for-the-badge&logo=appveyor)](http://wpa.qq.com/msgrd?v=3&uin=745151353&site=qq&menu=yes)  [![官方QQ客服2](https://img.shields.io/badge/官方QQ客服2-1799661890-red.svg?style=for-the-badge&logo=appveyor)](http://wpa.qq.com/msgrd?v=3&uin=1799661890&site=qq&menu=yes) 
 
-## 许可证
 
-基于SIL开源字体许可证1.1版，该版本网络链接：
-http://scripts.sil.org/OFL
